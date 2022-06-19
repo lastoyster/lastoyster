@@ -11,13 +11,14 @@
 
 - 🌱 I’m currently learning **Python,CoffeeScript,Typescript**
 
-- 👯 I’m looking to collaborate on **Remix, Scrapy**
-
-- 🤝 I’m looking for help with **MatPlotlib**
+- 👯 I’m looking to collaborate on **React-Remix**
 
 - 💬 Ask me about **HTML,Javascript,💿Music, Indian Movies**
 
 - 📫 How to reach me **kadampratiksha56@gmail.com**
+
+- 👨‍💻 All of my projects are available at https://codepen.io/juniorjunior
+- I can't get enough of CodePen  💕 !
 
 - ⚡ Fun fact **I learned English by watching Korean Dramas. Go figure !**
 
