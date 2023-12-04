@@ -5,7 +5,7 @@
 <img align="right" alt="Octocat" width="400" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lastoyster&label=Profile%20views&color=0e75b6&style=flat" alt="lastoyster" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pratiksha33333" target="blank"><img src="https://img.shields.io/twitter/follow/pratiksha33333?logo=twitter&style=for-the-badge" alt="pratiksha33333" /></a> </p>
+<p align="left"> <a href="https://codewars.com/lastoyster" target="blank"><img src=[(https://www.svgrepo.com/svg/305890/codewars?)]logo=codewars&style=for-the-badge" alt="lastoyster"/></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio**
 
