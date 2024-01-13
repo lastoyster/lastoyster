@@ -2,10 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratiksha Kadam</h1>
 <h3 align="center">A Self-taught Front-end developer from India</h3>
-<img align="right" alt="Octocat" width="400" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lastoyster&label=Profile%20views&color=0e75b6&style=flat" alt="lastoyster" /> </p>
-
-<p align="left"> <a href="https://codewars.com/lastoyster" target="blank"><img src=[(https://www.svgrepo.com/svg/305890/codewars?)]logo=codewars&style=for-the-badge" alt="lastoyster"/></a> </p>
+ </p>
 
 - 🔭 I’m currently working on **My Portfolio**
 
@@ -15,7 +12,7 @@
 
 - 💬 Ask me about **HTML,Javascript,💿Music, Indian Movies**
 
-- 📫 How to reach me **kadampratiksha56@gmail.com**
+- 📫 How to reach me **pratk95@proton.me**
 
 - 👨‍💻 All of my projects are available at https://codepen.io/juniorjunior
 - I can't get enough of CodePen  💕 !
