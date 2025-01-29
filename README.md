@@ -1,23 +1,23 @@
 ### Hi Gitters! 👋
 
 <h1 align="center">Hi 👋, I'm Pratiksha Kadam</h1>
-<h3 align="center">A Self-taught Front-end developer from India</h3>
+<h3 align="center">A Self-taught web developer from India</h3>
  </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Freelancer Projects**
 
-- 🌱 I’m currently learning **Python,CoffeeScript,Typescript**
+- 🌱 I’m currently learning **Python,Typescript,Dart**
 
-- 👯 I’m looking to collaborate on **React-Remix**
+- 👯 I’m looking to collaborate on **React-Native**
 
-- 💬 Ask me about **HTML,Javascript,💿Music, Indian Movies**
+- 💬 Ask me about **CSS,Javascript,💿Music, prompt resources**
 
-- 📫 How to reach me **pratk95@proton.me**
+- 📫 How to reach me **kadampratiksha56@gmail.com**
 
 - 👨‍💻 All of my projects are available at https://codepen.io/juniorjunior
 - I can't get enough of CodePen  💕 !
 
-- ⚡ Fun fact **I learned English by watching Korean Dramas. Go figure !**
+- ⚡ Fun fact **I learned English by watching English Dramas. Go figure !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
