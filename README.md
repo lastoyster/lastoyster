@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python,AWS,Shell Scripting**
 
-- 👯 I’m looking to collaborate on **React-Native**
+- 👯 I’m looking for fulltime or freelance roles in  **Linux & AWS Devops**
 
 - 💬 Ask me about **Javascript,💿Linux, Flutter**
 
@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/juniorjunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@prat1995" height="30" width="40" /></a>
 <a href="https://twitter.com/pratiksha33333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratiksha33333" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratiksha-kadam-7706a3226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratiksha-kadam-7706a3226" height="30" width="40" /></a>
 </p>
