@@ -1,21 +1,18 @@
 ### Hi Gitters! 👋
 
 <h1 align="center">Hi 👋, I'm Pratiksha Kadam</h1>
-<h3 align="center">A Self-taught web developer from India</h3>
+<h3 align="center">A Curious Cloud developer from India</h3>
  </p>
 
 - 🔭 I’m currently working on **Freelancer Projects**
 
-- 🌱 I’m currently learning **Python,AWS,Shell Scripting**
+- 🌱 I’m currently learning **Terraform,Ansible,Shell Scripting**
 
-- 👯 I’m looking for fulltime or freelance roles in  **Linux & AWS Devops**
+- 👯 I’m looking for fulltime or freelance roles in  **Cloud & Devops Engineering **
 
-- 💬 Ask me about **Javascript,💿Linux, Flutter**
+- 💬 Ask me about **Python,Javascript, Linux, C++**
 
 - 📫 How to reach me **kadampratiksha56@gmail.com**
-
-- 👨‍💻 All of my projects are available at https://codepen.io/juniorjunior
-- I can't get enough of CodePen  💕 !
 
 - ⚡ Fun fact **I learned English by watching English Dramas. Go figure !**
 
