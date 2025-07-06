@@ -1,21 +1,20 @@
 ### Hi Gitters! 👋
 
-<h1 align="center">Hi 👋, I'm Pratiksha Kadam</h1>
+<h1 align="center">I'm Pratiksha Kadam</h1>
 <h3 align="center">A Curious Cloud developer from India</h3>
  </p>
 
-- 🔭 I’m currently working on **Freelancer Projects**
+- 🔭 I’m currently working on **Python Projects**
 
 - 🌱 I’m currently learning **Terraform,Ansible,Shell Scripting**
 
 - 👯 I’m looking for fulltime or freelance roles in  **Cloud & Devops Engineering **
 
 - 💬 Ask me about **Python,Javascript, Linux, C++**
-
+- ✒️ I write articles At:  https://running-cloud.hashnode.dev
 - 📫 How to reach me **kadampratiksha56@gmail.com**
 
-- ⚡ Fun fact **I learned English by watching English Dramas. Go figure !**
-
+- ⚡ Fun fact **I was Arts students until my highschool but chose to major in CS In college.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pratiksha33333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratiksha33333" height="30" width="40" /></a>
